@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: 10%;
+  margin: 30px 30px;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  margin: 30px;
+}
+
+.canvas {
+  width:800px; 
+  height: 800px;
+}
